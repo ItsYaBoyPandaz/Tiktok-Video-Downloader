@@ -1,5 +1,10 @@
+===========DISCLAIMER===========
+
+PLEASE USE THIS AT YOUR OWN RISK. This plugin is initially designed for users to download their own TikTok videos. I am not legally reposible for any misuse or off-site modifications to the plugin. Please use this at your own risk as it is currently underdeveloped.
+
 ===========NOTICE===========
-Due to the impending shutdown of tiktok in the US, I will be archiving this project. Thank you to the small group of friends I had that supported me on this project
+
+Due to the unknown status of Tiktok, pending a possible change of hands or ownership, I will not be managing this as much as I wanted to.
 
 === TikTok Video Downloader ===
 
